@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,truenas.com
   - DOMAIN-SUFFIX,pkgbuild.com
   - DOMAIN-SUFFIX,archlinux.org
+  - DOMAIN-KEYWORD,hsex
