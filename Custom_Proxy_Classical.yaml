@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-KEYWORD,hsex
   - DOMAIN-KEYWORD,bash
+  - DOMAIN-SUFFIX,proxmox.com
