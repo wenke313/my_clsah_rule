@@ -19,3 +19,4 @@ payload:
   - DOMAIN-KEYWORD,hsex
   - DOMAIN-KEYWORD,bash
   - DOMAIN-SUFFIX,proxmox.com
+  - DOMAIN-SUFFIX,rclone.org
