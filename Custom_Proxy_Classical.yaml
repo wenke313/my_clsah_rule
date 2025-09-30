@@ -20,3 +20,4 @@ payload:
   - DOMAIN-KEYWORD,bash
   - DOMAIN-SUFFIX,proxmox.com
   - DOMAIN-SUFFIX,rclone.org
+  - DOMAIN-SUFFIX,1lou.info
