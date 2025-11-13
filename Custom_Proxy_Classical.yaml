@@ -17,7 +17,7 @@ payload:
   - DOMAIN-SUFFIX,pkgbuild.com
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-KEYWORD,hsex
-  - DOMAIN-KEYWORD,bash
+  - DOMAIN-KEYWORD,brew
   - DOMAIN-SUFFIX,proxmox.com
   - DOMAIN-SUFFIX,rclone.org
   - DOMAIN-SUFFIX,1lou.info
