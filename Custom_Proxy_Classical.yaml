@@ -21,7 +21,6 @@ payload:
   - DOMAIN-KEYWORD,brew
   - DOMAIN-SUFFIX,proxmox.com
   - DOMAIN-SUFFIX,rclone.org
-  - DOMAIN-SUFFIX,1lou.info
   - DOMAIN-SUFFIX,omdbapi.com
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,safepal.com
