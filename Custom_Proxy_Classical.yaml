@@ -30,3 +30,4 @@ payload:
   - DOMAIN-SUFFIX,sourceware.org
   - DOMAIN-SUFFIX,ipwho.is
   - DOMAIN-SUFFIX,ipapi.is
+  - DOMAIN-SUFFIX,github-cn.com
