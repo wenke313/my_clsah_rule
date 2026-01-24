@@ -31,3 +31,4 @@ payload:
   - DOMAIN-SUFFIX,ipwho.is
   - DOMAIN-SUFFIX,ipapi.is
   - DOMAIN-SUFFIX,github-cn.com
+  - DOMAIN-SUFFIX,ruby-lang.org 
