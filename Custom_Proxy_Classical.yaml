@@ -44,3 +44,4 @@ payload:
   - GEOSITE,debian
   - DOMAIN-SUFFIX,h528.com
   - DOMAIN-SUFFIX,yandex.com
+  - DOMAIN-SUFFIX,yandex.net
