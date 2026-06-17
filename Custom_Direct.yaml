@@ -407,3 +407,4 @@ payload:
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,scorecardresearch.com
