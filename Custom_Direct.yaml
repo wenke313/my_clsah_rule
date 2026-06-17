@@ -406,3 +406,4 @@ payload:
   - DOMAIN-SUFFIX,ipv6ready.me
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,cloudflare.com
