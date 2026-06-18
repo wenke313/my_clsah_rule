@@ -40,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,recombee.com
   - DOMAIN-SUFFIX,duck.ai
   - DOMAIN-SUFFIX,jina.ai
+  - GEOSITE,ubuntu
   - GEOSITE,debian
   - DOMAIN-SUFFIX,h528.com
   - DOMAIN-SUFFIX,bun.sh
