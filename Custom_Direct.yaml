@@ -1,4 +1,5 @@
 payload:
+  - geosite,category-speedtest@cn
   - DOMAIN-SUFFIX,xethub.hf.co
   - DOMAIN-SUFFIX,kyarucloud.moe
   - DOMAIN-SUFFIX,gh-proxy.com
