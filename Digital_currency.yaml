@@ -1,4 +1,5 @@
 payload:
+  - geosite,category-cryptocurrency 
   - DOMAIN-SUFFIX,gate.com
   - DOMAIN-SUFFIX,ergoplatform.org
   - DOMAIN-SUFFIX,neurai.org
